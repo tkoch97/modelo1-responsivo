@@ -5,7 +5,7 @@
 >Explorer Trail - Rocketseat 🪐
 A basic page template designed to train responsiveness and mobile first. Project based on the layout model provided by Rocketseat, on the explorer trail.
 
-[🔗 Clique aqui para acessar](https://tkoch97.github.io/modelo1-responsivo)
+[🔗 Click here to access](https://tkoch97.github.io/modelo1-responsivo)
 
 ## 🔧 Tecnologias
 
